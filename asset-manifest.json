@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.js": "/static/js/main.8e8489d5.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.58c9f5d4.js",
+    "static/js/2.83ada8a7.chunk.js": "/static/js/2.83ada8a7.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.83ada8a7.chunk.js.LICENSE.txt": "/static/js/2.83ada8a7.chunk.js.LICENSE.txt",
+    "static/media/bidaow.3c30c2cf.svg": "/static/media/bidaow.3c30c2cf.svg",
+    "static/media/blue-tick.31fdcebb.svg": "/static/media/blue-tick.31fdcebb.svg",
+    "static/media/bsc-logo.358a42f2.png": "/static/media/bsc-logo.358a42f2.png",
+    "static/media/change-network.e9dc3637.png": "/static/media/change-network.e9dc3637.png",
+    "static/media/claim.7fa0652d.svg": "/static/media/claim.7fa0652d.svg",
+    "static/media/coinbase.200710e6.svg": "/static/media/coinbase.200710e6.svg",
+    "static/media/confirm-transfer.3a6feef5.svg": "/static/media/confirm-transfer.3a6feef5.svg",
+    "static/media/custom-token.3b52a027.svg": "/static/media/custom-token.3b52a027.svg",
+    "static/media/down-triangle.e77d7a1e.svg": "/static/media/down-triangle.e77d7a1e.svg",
+    "static/media/drop-down.1ebb285d.svg": "/static/media/drop-down.1ebb285d.svg",
+    "static/media/imtoken.bd139121.svg": "/static/media/imtoken.bd139121.svg",
+    "static/media/link.cd2b0670.svg": "/static/media/link.cd2b0670.svg",
+    "static/media/loading.3c502e2d.svg": "/static/media/loading.3c502e2d.svg",
+    "static/media/metamask-fox.7db94670.svg": "/static/media/metamask-fox.7db94670.svg",
+    "static/media/multiple-claim.35df3f33.svg": "/static/media/multiple-claim.35df3f33.svg",
+    "static/media/no-history.cc89800b.svg": "/static/media/no-history.cc89800b.svg",
+    "static/media/right-arrow.59c7b3bf.svg": "/static/media/right-arrow.59c7b3bf.svg",
+    "static/media/search.bf04c13d.svg": "/static/media/search.bf04c13d.svg",
+    "static/media/settings.c5079894.svg": "/static/media/settings.c5079894.svg",
+    "static/media/transfer.ad082335.svg": "/static/media/transfer.ad082335.svg",
+    "static/media/unlock.06c5d8ad.svg": "/static/media/unlock.06c5d8ad.svg",
+    "static/media/up-triangle.ebc49cb7.svg": "/static/media/up-triangle.ebc49cb7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58c9f5d4.js",
+    "static/js/2.83ada8a7.chunk.js",
+    "static/js/main.8e8489d5.chunk.js"
+  ]
+}
